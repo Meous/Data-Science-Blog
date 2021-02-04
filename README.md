@@ -2,6 +2,8 @@
 
 The main objective of this project is to highlight some key insights in the world of developers in Ghana. Data was obtained from Stack Overflow's 2020 survey. Stack Overflow is an open community for anyone that codes. The platform basically helps developers answer their toughest coding questions, share knowledge with their coworkers in private, and find their next dream job.
 
+![Ghana](https://user-images.githubusercontent.com/44159331/106961258-39779d00-6735-11eb-9da2-9c0e25d07c30.jpg)
+
 # Data source
 
 Dataset for this analysis can be found here: https://insights.stackoverflow.com/survey/2020
